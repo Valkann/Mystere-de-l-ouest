@@ -1,0 +1,3 @@
+-   De l’hébreu «shimshôn», petit soleil. En breton : Samzun.
+-   Saint Samson fut évêque de Dol et mourut en 565. Il est vénéré en Bretagne et aussi au pays de Galles dont il était originaire. Samson est présenté dans la Bible comme le dernier des grands juges d’Israël. Il mourut d’une trahison de Dalila.
+-   La ville de Dol-de-Bretagne est une étape du pèlerinage médiéval des sept saints de Bretagne continentale appelé Tro Breizh (Tour de Bretagne)
