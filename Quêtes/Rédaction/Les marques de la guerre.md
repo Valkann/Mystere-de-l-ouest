@@ -84,10 +84,9 @@ Vous apercevez des soldats portant le brassard nazi à travers les arbres et ils
 
 - Test et course poursuite dans la forêt, malus avec la brume et la végétation.
 
-Les personnages peuvent être
->Prisonniers
-ou se cacher :
->Scène Le camp
+Les personnages peuvent :
+- Etre fait Prisonniers
+- Se cacher
 
 Les soldats Nazi de près ont la peau décomposée et une sorte de matière gélatineuse et verte semble pendre des plaies et de la chair. Ils marchent lentement, mais ne sont pas ralentis par la végétation ou les arbres, et la brume ne semble pas les perturber.
 
@@ -97,17 +96,29 @@ Les soldats Nazi de près ont la peau décomposée et une sorte de matière gél
 
 > Vous vous apercevez qu’il y a des lumières dans la forêt, une sorte de clairière semble abriter des tentes. Plusieurs soldats semblent monter la garde, vous pouvez les apercevoir distinctement, ce sont des créatures de cauchemars, cadavre décomposés dont les plaies dégorge d’une étrange matière verte et gluante, l’odeur de la chair pourrie remplies l’air et une autre odeur détestable s’y mêle.
 
-## Prisonniers
+Devant, vous, une jeune femme est amenée devant un arbre, attachée et abattue par le peloton d'exécution. Son corps est laissé dans cette sorte de clairière.
 
-### Scène : Le peloton d’exécution
+### Scène : Prisonniers. 
 
-### Scène : La clairière
+Vous êtes amenés à une sorte de camp (cf. ci-dessus), les soldats vous hurle dessus en allemand, avant de vous attacher à des arbres. Si vous tentez de vous échapper, vous êtes froidement abattus.
 
-Vous voyez devant vous une silhouette de la femme qui est dans une clairière entourée d’arbres particulièrement grands. Les oiseaux ne se font plus entendre et l’air est plus chaud dans là clairière, la brume semble s’étiolée, et une odeur cuivrée et ferreuse se fait sentir pendant un instant.
+Devant, vous, une jeune femme est amenée devant un arbre, attachée et abattue par le peloton d'exécution. 
+
+Les soldats se mettent en joue et vous exécute à votre tour alors que vous êtes attachés aux arbres.
+
+### Scène : réveil brutal
+
+Les personnages se réveillent tous dans la voiture, toujours en panne, comme si ne s'était écoulé que quelques dizaines de minutes tout au plus. Ils ont encore dans le nez l'odeur de la pourriture et le moteur ne démarre toujours pas.
+
+### Scène : Trouver la clairière
+
+Si les personnages recherchent la clairière, ils finissent par la trouver, la forêt semble moins inhospitalière et leur progression dans les buissons est plus facile.
+
+> Vous voyez devant vous une silhouette de la femme qui est dans une clairière entourée d’arbres particulièrement grands. Les oiseaux ne se font plus entendre et l’air est plus chaud dans la clairière, la brume semble s’étiolée, et une odeur cuivrée et ferreuse se fait sentir pendant un instant.
 
 - Un test permet de s’apercevoir qu’il y a aussi une odeur de poudre fugace qui disparait très vite.
 
-Au milieu de la clairière des affleurements de roches blanches émergent e la terre, les arbres formant une barrière autour de ces derniers. Les rayons du soleil qui passent à travers la frondaison accentue leur blancheur sur le tapis de mousse sombre qui recouvre la clairière.
+Au milieu de la clairière, des affleurements de roches blanches émergent e la terre, les arbres formant une barrière autour de ces derniers. Les rayons du soleil qui passent à travers la frondaison accentuent leur blancheur sur le tapis de mousse sombre qui recouvre la clairière.
 
 - Un test permet de deviner qu’il s’agit des ossements d’une personne.
 
@@ -115,7 +126,7 @@ Au milieu de la clairière des affleurements de roches blanches émergent e la t
 
 Dans la clairière le réseau téléphonique semble soudain reprendre vie, les téléphone vibrent des messages qu’ils reçoivent maintenant reconnecter.
 
-La femme semble avoir complètement disparue et il n’en reste aucune trace.
+La femme a complètement disparu et il n’en reste aucune trace.
 
 Si les personnages appelle les secours ceux-ci vont venir assez vite, trouver la voiture et rejoindre les personnages dans la clairière.
 
@@ -123,8 +134,8 @@ Ils déterreront les ossements et expliqueront au personnage que ce genre de cho
 
 Il y a eu la découverte de trois charniers en fin 1944, et on a retrouvé un autre corps plusieurs années plus tard.
 
-Quand les secours sortent les ossements, les personnages découvrent que ceux-ci portant des lambeaux de vêtement, un chemisier large et une sorte de jupe plissé qui semble se finir en dessous des genoux.
+Quand les secours sortent les ossements, les personnages découvrent que ceux-ci portant des lambeaux de vêtement, un chemisier large et une sorte de jupe plissé qui se termine en dessous des genoux.
 
 ### Scène : Au loin
 
-> Alors qu’ils repartent dans leur voiture, ils voient en sortie de forêt, une femme monter dans une charrette, tirée par deux chevaux et dont le conducteur, un homme grand et maigre avec un grand chapeau rond, tient à son côté une faux dont la lame est inversée.
+> Alors qu’ils repartent dans leur voiture, ils voient, en sortie de forêt, une femme monter dans une charrette, tirée par deux chevaux et dont le conducteur, un homme grand et maigre avec un grand chapeau rond, tient à son côté une faux dont la lame est inversée.
