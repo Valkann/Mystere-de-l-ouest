@@ -10,9 +10,12 @@ Alias :
 - 2021-10-13-Wed - Les marques de la guerre
 ---
 
-## Les marques de la guerre
+# Les marques de la guerre
 
-### Histoire 
+- Lieux : La forêt de Lorge.
+
+## Histoire
+
 Un esprit d’une résistante, fusillée ici en 1944 et dont le corps n’a jamais été retrouvé, attire les personnages à travers la forêt afin de faire découvrir son cadavre.
 
 Les personnages vont être confrontés à une silhouette qui les emmène dans la forêt, de plus en plus profondément. C’est le fantôme de la résistante.
@@ -25,19 +28,20 @@ Ce sont les ossements du résistant fusillé, les personnages peuvent alors pré
 
 Vision de l’Ankou qui récupère l’âme du mort après que les personnages aient décidé de prévenir les autorités pour le squelette. Ils le voient au loin avec sa charrette.
 
-### Accroche
+## Accroche
+
 **Début** : Sur le chemin de Guerledan la voiture tombe en panne au milieu de la forêt
 
 > 1 heure de voiture jusqu’au lac de Guerledan, passage au milieu de la forêt de Lorge. Le soleil est caché et la température diminue alors que la voiture passe sous la frondaison des grands arbres de la forêt.
 
 **Pitch** : Une panne de voiture est le prétexte pour rencontrer des fantômes de la seconde guerre mondiale et libérer un esprit tourmenté par les Nazis.
 
-**Description** : 
->Alors que vous roulez sous l’ombre des grands arbres de la forêt, votre voiture commence à crachoter et à toussoter. 
+**Description** :
+>Alors que vous roulez sous l’ombre des grands arbres de la forêt, votre voiture commence à crachoter et à toussoter.
 >
->Vous avez juste le temps de vous ranger sur le côté avant que le moteur ne s’arrête complètement. 
+>Vous avez juste le temps de vous ranger sur le côté avant que le moteur ne s’arrête complètement.
 >
->Autour de vous, le soleil perce à peine le feuillage épais des arbres qui vous entourent. Il n’y a que la route, les barrières métalliques qui la bordent et les grands arbres sur les talus de l’autre côté des glissières. 
+>Autour de vous, le soleil perce à peine le feuillage épais des arbres qui vous entourent. Il n’y a que la route, les barrières métalliques qui la bordent et les grands arbres sur les talus de l’autre côté des glissières.
 >
 >Vous entendez le pépiement de nombreux oiseaux dans les branchages, l’air qui vous entoure est frais, presque froid, et les odeurs d’humus, de plantes et de fleurs vous entoure.
 
@@ -49,23 +53,22 @@ Au bout de quelque temps, vous vous rendez compte qu’il n’y a pas beaucoup d
 
 Vous apercevez une silhouette humaine dans la forêt un peu plus loin, pour la rejoindre il faudra s’enfoncer dans les bois. La silhouette à peine aperçut, parais continuer dans les bois.
 
-- Un test permet de se rendre compte que cette personne est une femme assez grande qui porte un chemisier large et une jupe plissée qui arrive juste en dessous des genoux. 
+- Un test permet de se rendre compte que cette personne est une femme assez grande qui porte un chemisier large et une jupe plissée qui arrive juste en dessous des genoux.
 
-### La forêt
+## La forêt
 
 **Début** : Les personnages décident de poursuivre la silhouette aperçue dans les bois.
 
-**Scène** : Une forêt de plus en plus sombre, de la brume et une odeur de pourriture qui devient de plus en plus présente. 
+**Scène** : Une forêt de plus en plus sombre, de la brume et une odeur de pourriture qui devient de plus en plus présente.
 
-Puis des bruits de fusils, des silhouettes militaires, des cris en allemand, des courses poursuites dans la forêt, branches, marre d’eau croupie, coupures… 
+Puis des bruits de fusils, des silhouettes militaires, des cris en allemand, des courses poursuites dans la forêt, branches, marre d’eau croupie, coupures…
 Inspiration et ambiance à la Outpost.
-
 
 ### Scène : Se perdre dans la forêt
 
-> Vous enjambez la barrière métallique du bord de route pour monter le talus qui vous fait face, vous vous aidez des racines et des branches pour escalader, et arrivez dans la forêt. La température semble encore plus basse et une sorte de légère brume glisse sur le sol autour des troncs. Devant, vous la silhouette semble s’enfoncer encore plus loin dans la forêt. 
+> Vous enjambez la barrière métallique du bord de route pour monter le talus qui vous fait face, vous vous aidez des racines et des branches pour escalader, et arrivez dans la forêt. La température semble encore plus basse et une sorte de légère brume glisse sur le sol autour des troncs. Devant, vous la silhouette semble s’enfoncer encore plus loin dans la forêt.
 
-La marche dans les bois est difficile et fatigante, il vous semble que personne n’est passé par là depuis des années, une sorte d’ancien chemin finit par se dessiner devant vous. 
+La marche dans les bois est difficile et fatigante, il vous semble que personne n’est passé par là depuis des années, une sorte d’ancien chemin finit par se dessiner devant vous.
 
 >La brume devient de plus en plus dense, et vous commencez à avoir du mal à garder même le contact visuel entre vous, vous n’êtes même pas sûr de pouvoir revenir sur vos pas sans encombre. La végétation devient dense et rend votre progression difficile.
 
@@ -81,9 +84,9 @@ Vous apercevez des soldats portant le brassard nazi à travers les arbres et ils
 
 - Test et course poursuite dans la forêt, malus avec la brume et la végétation.
 
-Les personnages peuvent être 
->Prisonniers 
-ou se cacher : 
+Les personnages peuvent être
+>Prisonniers
+ou se cacher :
 >Scène Le camp
 
 Les soldats Nazi de près ont la peau décomposée et une sorte de matière gélatineuse et verte semble pendre des plaies et de la chair. Ils marchent lentement, mais ne sont pas ralentis par la végétation ou les arbres, et la brume ne semble pas les perturber.
@@ -94,13 +97,13 @@ Les soldats Nazi de près ont la peau décomposée et une sorte de matière gél
 
 > Vous vous apercevez qu’il y a des lumières dans la forêt, une sorte de clairière semble abriter des tentes. Plusieurs soldats semblent monter la garde, vous pouvez les apercevoir distinctement, ce sont des créatures de cauchemars, cadavre décomposés dont les plaies dégorge d’une étrange matière verte et gluante, l’odeur de la chair pourrie remplies l’air et une autre odeur détestable s’y mêle.
 
-#### Prisonniers !
+## Prisonniers
 
 ### Scène : Le peloton d’exécution
 
 ### Scène : La clairière
 
-Vous voyez devant vous une silhouette de la femme qui est dans une clairière entourée d’arbres particulièrement grands. Les oiseaux ne se font plus entendre et l’air est plus chaud dans là clairière, la brume semble s’étiolée, et une odeur cuivrée et ferreuse se fait sentir pendant un instant. 
+Vous voyez devant vous une silhouette de la femme qui est dans une clairière entourée d’arbres particulièrement grands. Les oiseaux ne se font plus entendre et l’air est plus chaud dans là clairière, la brume semble s’étiolée, et une odeur cuivrée et ferreuse se fait sentir pendant un instant.
 
 - Un test permet de s’apercevoir qu’il y a aussi une odeur de poudre fugace qui disparait très vite.
 
@@ -114,11 +117,11 @@ Dans la clairière le réseau téléphonique semble soudain reprendre vie, les t
 
 La femme semble avoir complètement disparue et il n’en reste aucune trace.
 
-Si les personnages appelle les secours ceux-ci vont venir assez vite, trouver la voiture et rejoindre les personnages dans la clairière. 
+Si les personnages appelle les secours ceux-ci vont venir assez vite, trouver la voiture et rejoindre les personnages dans la clairière.
 
 Ils déterreront les ossements et expliqueront au personnage que ce genre de chose peut arriver par ici, car le lieu a servi en été 44 à des exécutions réalisées par les Allemands pendant la guerre.
 
-Il y a eu la découverte de trois charniers en fin 1944, et on a retrouvé un autre corps plusieurs années plus tard. 
+Il y a eu la découverte de trois charniers en fin 1944, et on a retrouvé un autre corps plusieurs années plus tard.
 
 Quand les secours sortent les ossements, les personnages découvrent que ceux-ci portant des lambeaux de vêtement, un chemisier large et une sorte de jupe plissé qui semble se finir en dessous des genoux.
 
