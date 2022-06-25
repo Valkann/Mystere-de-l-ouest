@@ -7,6 +7,7 @@ Type :
 MOC : 
 - [[MOC jeu de rôle|MOC jdr]]
 - [[MOC Mystère de l'ouest]]
+- [[MOC Légendes et Folklore]]
 PROJETS :
 - [[PRJ Mystère de l'ouest]]
 Source :

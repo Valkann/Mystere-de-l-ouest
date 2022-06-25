@@ -1,6 +1,11 @@
 ---
 Type : [[Note Permanente]]
 MOC : 
+- [[MOC Légendes et Folklore]]
+- [[MOC Mystères de l'ouest]]
+- [[MOC jeu de rôle]]
+PROJETS :
+- [[PRJ Mystère de l'ouest]]
 Source : 
 - [[MdO-SCENARIO_01_Après Binic]]
 Projets :
@@ -122,13 +127,15 @@ Au milieu de la clairière, des affleurements de roches blanches émergent e la 
 
 - Un test permet de deviner qu’il s’agit des ossements d’une personne.
 
+## Conclusion
+
 ### Scène : retour à la réalité
 
 Dans la clairière le réseau téléphonique semble soudain reprendre vie, les téléphone vibrent des messages qu’ils reçoivent maintenant reconnecter.
 
 La femme a complètement disparu et il n’en reste aucune trace.
 
-Si les personnages appelle les secours ceux-ci vont venir assez vite, trouver la voiture et rejoindre les personnages dans la clairière.
+Si les personnages appelle les secours, ceux-ci vont venir assez vite, trouver la voiture et rejoindre les personnages dans la clairière.
 
 Ils déterreront les ossements et expliqueront au personnage que ce genre de chose peut arriver par ici, car le lieu a servi en été 44 à des exécutions réalisées par les Allemands pendant la guerre.
 
