@@ -23,6 +23,7 @@ Tags : #SN/
     [[Les marques de la guerre]]
 2. **Au choix** - Un projet immobilier est saboté toutes les nuits, les vieux parlent d'un Laer Douar qui cherche à remettre en place les pierres de champs, mais un groupe d'activiste pour la protection du littoral est aussi actif dans la région.
     [[Laer Douar]]
+    [[Des pierres mystérieuses]]
 3. **Binic** - Le musée d'art et traditions populaires : Le conservateur a entendu parler du bateau qui a tapé la digue et il pense que quelqu'un devrait lui rapporter des objets de ce navire. En fait, ce qui serait le mieux serait de ramener l'astrolabe du bateau situé sans doute dans la cabine du capitaine, afin qu'il puisse compléter sa collection. Il est prêt à laisser aux personnages l'accès à la remise du musée et de prendre un objet en échange.
     [[Binic - musée d'art et traditions populaires]]
 4. **Au choix** - Une série de morts étrange survient dans cette ville, chaque victime avait dans le poing serré un petit sac avec des ingrédients faisant penser à de la sorcellerie.
