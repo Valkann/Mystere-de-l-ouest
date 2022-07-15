@@ -14,7 +14,6 @@ Tags : #SN/
 
 # Ober ar Vad
 
-
 ***
 
 ## Notes
