@@ -14,12 +14,11 @@ Tags : #SN/
 
 # Société archéologique des mythes comparés
 
-
 ***
 
 ## Notes
-Société qui met en comparaison les mythes bretons de la ville d'Ys et certain mythe polynésiens.
 
+Société qui met en comparaison les mythes bretons de la ville d'Ys et certain mythe polynésiens.
 
 ## Interactions
 
