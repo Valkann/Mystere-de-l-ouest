@@ -18,7 +18,7 @@ Tags : #SN/
 
 ## Notes
 
-Groupe d'activiste écologique dont le nom Breton signifie "faire une bonne action"
+Groupe d'activiste écologique dont le nom Breton signifie "faire une bonne action". Ils sont présents un peu partout en Bretagne. Ancien Zadiste e Notre dame de la lande, ils continuent leur action et créer des ZAD quand ils estiment que l'écologie est menacée ou les lois écologiques non respectées.
 
 ## Interactions
 
