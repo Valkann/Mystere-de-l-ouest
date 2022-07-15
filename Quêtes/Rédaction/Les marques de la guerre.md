@@ -17,7 +17,7 @@ Alias :
 
 # Les marques de la guerre
 
-- Lieux : La forêt de Lorge.
+- Lieux : La [[Forêt de Lorge]]
 
 ## Histoire
 
